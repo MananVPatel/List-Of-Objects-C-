@@ -1,0 +1,9 @@
+Buck Strickland#I-4536#Propane#CEO
+Hank Hill#I-4535#Propane#Salesman
+Mervin Wills#I-4659#Sales#Sales Rep
+Bill Phelps#I-3298#Engineering#Software Engineer
+Marilyn Martin#I-6543#Administration#Director
+Joy Rodgers#I-4455#Manufacturing#SW Engineer
+Martin Shellman#I-3627#Transportation#Driver
+George Wilmoth#I-3871#Accounting#Accountant
+Martin Day#I-4522#Employee Relations#Specialist

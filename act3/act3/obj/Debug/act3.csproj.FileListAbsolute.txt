@@ -1,0 +1,9 @@
+P:\Private\CMPSC302\act3\act3\act3\bin\Debug\act3.exe.config
+P:\Private\CMPSC302\act3\act3\act3\bin\Debug\act3.exe
+P:\Private\CMPSC302\act3\act3\act3\bin\Debug\act3.pdb
+P:\Private\CMPSC302\act3\act3\act3\obj\Debug\act3.Form1.resources
+P:\Private\CMPSC302\act3\act3\act3\obj\Debug\act3.Properties.Resources.resources
+P:\Private\CMPSC302\act3\act3\act3\obj\Debug\act3.csproj.GenerateResource.Cache
+P:\Private\CMPSC302\act3\act3\act3\obj\Debug\act3.exe
+P:\Private\CMPSC302\act3\act3\act3\obj\Debug\act3.pdb
+P:\Private\CMPSC302\act3\act3\act3\obj\Debug\act3.csprojResolveAssemblyReference.cache
